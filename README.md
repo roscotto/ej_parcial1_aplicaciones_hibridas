@@ -1,4 +1,6 @@
-Práctica para 1er parcial de la materia Aplicaciones Híbridas de la Carrera de Diseño y Programación Web de la Escuela DaVinci
+#Práctica para 1er parcial
+## Materia: Aplicaciones Híbridas
+## Carrera: Diseño y Programación Web - Escuela Da Vinci
 
 ### Parte #01
 
