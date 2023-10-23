@@ -3,7 +3,7 @@ import proyectosRoutes from './routes/proyectosRoutes.js'
 
 const app = express()
 
-app.use(express.json())
+app.use(express.json()) // interpreta el body cuando viene un json
 
 app.use(proyectosRoutes)
 
