@@ -1,3 +1,4 @@
+import { array } from 'yup';
 import proyectosServices from '../services/proyectosServices.js'
 import { ObjectId } from 'mongodb';
 
@@ -137,4 +138,5 @@ export default {
     crearProyecto,
     eliminarProyecto,
     editarProyecto
+   
 }
